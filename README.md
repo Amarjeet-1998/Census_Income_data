@@ -1,5 +1,6 @@
 # Census_Income_data
 
  
-![image.png](attachment:5e5f2708-2470-4da6-ac16-5831f022eae9.png)
+![image](https://user-images.githubusercontent.com/58102638/202852524-bbf7d91c-1cce-457b-82c5-3bb3fb75d82b.png)
+
  
